@@ -1,4 +1,4 @@
-url='https://github.com/TH30R10N/CheckUser'
+url='https://github.com/PhoenixxZ2023/CheckUser'
 
 cd ~
 
