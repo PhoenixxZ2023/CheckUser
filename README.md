@@ -26,7 +26,7 @@ python3 -m pip install --upgrade git+https://github.com/PhoenixxZ2023/CheckUser.
 
 ### Ou
 ```
-curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/CheckUser/main/install.sh > install.sh; chmod a+x install.sh; ./install.sh
+curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/CheckUser/master/install.sh > install.sh; chmod a+x install.sh; ./install.sh
 ```
  *Opcao 2*
 
